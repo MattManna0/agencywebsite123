@@ -9,7 +9,7 @@ export default function FirstPost() {
                <a className="link">Home</a>
             </Link>
             <div>
-                <img src="https://cdn.discordapp.com/attachments/1007356130638442577/1007356237333147648/unknown.png" sizes={100px}/>
+                <img src="https://cdn.discordapp.com/attachments/1007356130638442577/1007356237333147648/unknown.png" sizes={100}/>
             </div>
             <div>div 2</div>
          </h2>
